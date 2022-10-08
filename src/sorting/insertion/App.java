@@ -1,7 +1,7 @@
 package sorting.insertion;
 
 
-public class insertionAlgo {
+public class App {
     public static void main(String[] args) throws Exception {
 
         int[] vetor = new int[10]; 
